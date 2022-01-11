@@ -10,5 +10,5 @@ $ git branch
 ```
 
 ```
-git push origin
+$ git push origin
 ```
